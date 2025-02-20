@@ -49,7 +49,7 @@ public class Paciente {
         this.nomeCompleto = nomeCompleto;
     }
 
-    // Getter e Setter para nomeSocial
+    // Getter e Setter paranomeSocial
     public String getNomeSocial() {
         return nomeSocial;
     }
